@@ -1,6 +1,6 @@
 {% set name = "qrcode" %}
-{% set version = "6.1" %}
-{% set sha256 = "505253854f607f2abf4d16092c61d4e9d511a3b4392e60bff957a68592b04369" %}
+{% set version = "7.0" %}
+{% set sha256 = "963046df808fbcc9f28200108ce235128921af225302145238981913705ecaff" %}
 
 package:
   name: {{ name|lower }}
